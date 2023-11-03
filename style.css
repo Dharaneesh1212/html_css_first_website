@@ -1,0 +1,243 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: auto;
+  width: 97vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, #3fa5e9, #af54d3, #008b8b);
+}
+
+html {
+  font-size: 20px;
+}
+
+.youtube {
+  margin: 1rem;
+  padding: 1rem;
+}
+
+.three-pic {
+  display: flex;
+  flex-direction: row;
+  padding: 2rem;
+  gap: 2rem;
+  color: white, dark;
+}
+
+.frontend-pic {
+  width: 30vw;
+  height: 50vh;
+}
+
+.backend-pic {
+  width: 30vw;
+  height: 50vh;
+}
+
+.fullstack-pic {
+  width: 30vw;
+  height: 50vh;
+}
+
+.text1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+  color: white;
+}
+
+.text2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+  color: white;
+}
+
+.text3 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+  color: white;
+}
+
+.week1-10 {
+  /* height: 100vh; */
+  width: 80vw;
+  margin: 2rem;
+  display: flex;
+  gap: 5rem;
+  color: white;
+  flex-direction: row;
+}
+.week11-20 {
+  /* height: 100vh; */
+  width: 80vw;
+  margin: 2rem;
+  display: flex;
+  gap: 5rem;
+  color: white;
+  flex-direction: row;
+}
+.week21-28 {
+  height: 10rem;
+  width: 88vw;
+  margin: 2rem;
+  display: flex;
+  gap: 5rem;
+  color: white;
+  flex-direction: row;
+}
+
+.table1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  gap: 5rem;
+}
+
+.table-img1 {
+  width: 30vw;
+  height: 50vh;
+  padding: 1rem;
+}
+
+.table-para1 {
+  width: 30rem;
+  height: 10rem;
+}
+
+.table2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  gap: 5rem;
+}
+
+.table-img2 {
+  width: 30vw;
+  height: 50vh;
+  padding: 1rem;
+}
+
+.table-para2 {
+  width: 30rem;
+  height: 13rem;
+}
+
+.table3 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  gap: 5rem;
+}
+
+.table-img3 {
+  width: 30vw;
+  height: 50vh;
+  padding: 1rem;
+}
+
+.table-para3 {
+  width: 30rem;
+  height: 10rem;
+}
+
+.textarea {
+  width: 35rem;
+  height: 30rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #8636e2;
+  /* padding: 5px,50px; */
+  margin: 100px;
+  border-radius: 10px;
+}
+
+.box-one {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5px;
+  gap: 5px;
+}
+
+.box-two {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5px;
+  gap: 5px;
+}
+
+.box-three {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5px;
+  gap: 5px;
+}
+
+.box-four {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5px;
+  gap: 5px;
+}
+
+.dot-one {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5px;
+  gap: 5px;
+}
+
+.dot-two {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5px;
+  gap: 5px;
+}
+
+.dot-three {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5px;
+  gap: 5px;
+}
+
+.dot-four {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5px;
+  gap: 5px;
+}
+
+.btn{
+  padding: 5px;
+  color: black;
+  background-color: #8636e2;
+  border-radius: 6px;
+}
+
